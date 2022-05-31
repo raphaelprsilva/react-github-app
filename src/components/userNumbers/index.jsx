@@ -8,15 +8,15 @@ const UserNumbers = (props) => {
   return (
     <Container>
       <NumberContainer onClick={() => handleClick('/repos')}>
-        <Title>13</Title>
+        <Title>{props.repos}</Title>
         <Subtitle>Repositórios</Subtitle>
       </NumberContainer>
       <NumberContainer onClick={() => handleClick('/followers')}>
-        <Title>13</Title>
+        <Title>{props.followers}</Title>
         <Subtitle>Seguidores</Subtitle>
       </NumberContainer>
       <NumberContainer onClick={() => handleClick('/following')}>
-        <Title>13</Title>
+        <Title>{props.following}</Title>
         <Subtitle>Seguindo</Subtitle>
       </NumberContainer>
     </Container>
