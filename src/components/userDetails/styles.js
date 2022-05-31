@@ -27,7 +27,7 @@ export const Username = styled.h2`
 
 export const Description = styled.p`
   width: 300px;
-  height: 30px;
+  height: 40px;
   margin: 10px 0;
   font-size: 12px;
   text-align: center;
