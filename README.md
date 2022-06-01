@@ -1,5 +1,7 @@
 # 📌 Github Profile App Project
 
+![React Github App](https://media.giphy.com/media/23r2IymoN8k4QB7DI9/giphy.gif)
+
 Este repositório contém os arquivos do 'Github Profile App', feito com React.
 
 > Aplicação responsável por fazer pesquisas de usuários do github.
